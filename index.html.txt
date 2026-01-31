@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Lider Group</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Lider Group</h1>
+    <p>Parke ve Duvar Paneli Çözümleri</p>
+</header>
+
+<section>
+    <h2>Parke Markaları</h2>
+    <div class="brands">
+        <a href="brands/camsan.html">Çamsan</a>
+        <a href="brands/agt.html">AGT</a>
+        <a href="brands/vario.html">Vario</a>
+        <a href="brands/terraclick.html">Terraclick</a>
+    </div>
+</section>
+
+<section>
+    <h2>Duwall Duvar Paneli</h2>
+    <div class="gallery">
+        <img src="images/duvar1.jpg">
+        <img src="images/duvar2.jpg">
+    </div>
+</section>
+
+<a href="https://wa.me/905426190655" class="whatsapp">WhatsApp</a>
+
+</body>
+</html>
